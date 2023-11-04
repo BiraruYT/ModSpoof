@@ -1,6 +1,6 @@
 package me.cheapplayz.modspoof;
 
-import me.cheapplayz.modspoof.commands.ModSpoofCommand;
+import me.cheapplayz.modspoof.commands.SpoofListCommand;
 import me.cheapplayz.modspoof.core.Config;
 import me.cheapplayz.modspoof.utils.Utils;
 import net.minecraft.client.Minecraft;
@@ -15,10 +15,7 @@ import net.minecraftforge.fml.client.config.GuiCheckBox;
 import net.minecraftforge.fml.common.Loader;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.ModContainer;
-import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
@@ -80,7 +77,7 @@ public class ModSpoof {
 
     @SideOnly(Side.CLIENT)
     private void registerClientCommands() {
-        ClientCommandHandler.instance.registerCommand(new ModSpoofCommand());
+        ClientCommandHandler.instance.registerCommand(new SpoofListCommand());
     }
 
     @SubscribeEvent
