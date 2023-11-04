@@ -1,8 +1,8 @@
-### Mod Spoof
+# Mod Spoof
 
 In BETA
 
-### Instructions:
+# Instructions:
 
 1. Click `use this template` at the top.
 2. Clone the repository you have created with this template.
@@ -11,7 +11,7 @@ In BETA
 5. Run `gradlew runClient` and `gradlew runServer`, or use the auto-imported run configurations in IntelliJ like `1. Run Client`.
 6. Run `gradlew build` to build.
 
-### Commands:
+# Commands:
 
 1. `gradlew build`
 2. `gradlew setupDecompWorkspace`
