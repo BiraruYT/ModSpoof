@@ -8,7 +8,8 @@ import java.util.List;
 
 public class Utils {
     public static List<String> loadConfig() {
-        return ModSpoof.config != null ? Arrays.asList(ModSpoof.config.hiddenMods.split("\n")) : Arrays.asList();
+        System.out.println(ModSpoof.config.hiddenMods);
+        return Arrays.asList(ModSpoof.config.hiddenMods.split("\n"));
     }
 
     public static void saveConfig() {
@@ -20,6 +21,8 @@ public class Utils {
                 modstring.append(modid).append("\n");
             }
         }
+
+        System.out.println(modstring);
 
         if (ModSpoof.config != null) {
             ModSpoof.config.hiddenMods = modstring.toString();
