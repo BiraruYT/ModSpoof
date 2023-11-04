@@ -29,5 +29,5 @@ In BETA
 3. [RongMario](https://github.com/Rongmario)
 
 ## Special Thanks To:
-1. [gjhylhlyhlghb](discordapp.com/users/429151217592041472)
-2. [Asbestosstar](discordapp.com/users/209892875201150987)
+1. [gjhylhlyhlghb](https://discordapp.com/users/429151217592041472)
+2. [Asbestosstar](https://discordapp.com/users/209892875201150987)
