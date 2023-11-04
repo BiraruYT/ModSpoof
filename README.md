@@ -20,3 +20,14 @@ In BETA
 5. `gradlew clean`
 6. `gradlew genIntellijRuns`
 7. `gradlew --refresh-dependencies`
+
+# Credit:
+
+## Huge Thanks To:
+1. [CheapPlayz Aka Me](https://github.com/CheapPlayz)
+2. [Cleanroom Team](https://github.com/orgs/CleanroomMC/people)
+3. [RongMario](https://github.com/Rongmario)
+
+## Special Thanks To:
+1. [gjhylhlyhlghb](discordapp.com/users/429151217592041472)
+2. [Asbestosstar](discordapp.com/users/209892875201150987)
