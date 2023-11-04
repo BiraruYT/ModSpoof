@@ -5,10 +5,8 @@
     "description": "Spoof Mods And Hide Them",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "",
-    "updateUrl": "",
     "authorList": ["CheapPlayz"],
-    "credits": "Special Thanks To [asbestosstar (Huge Thanks), lexmanos, gjhylhlyhlghb (Huge Thanks Too)] For Helping Me Create This Mod",
+    "credits": "Special Thanks To [rongmario (Huge Thanks), asbestosstar (Huge Thanks Too), lexmanos, gjhylhlyhlghb (Huge Thanks Too X2)] For Helping Me Create This Mod",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []
