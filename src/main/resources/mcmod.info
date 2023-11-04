@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "modspoof",
+    "name": "ModSpoof",
+    "description": "Spoof Mods And Hide Them",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["CheapPlayz"],
+    "credits": "Special Thanks To [asbestosstar (Huge Thanks), lexmanos, gjhylhlyhlghb (Huge Thanks Too)] For Helping Me Create This Mod",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
