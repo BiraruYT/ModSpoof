@@ -5,6 +5,5 @@
   "mixins": [
     "MixinModList",
     "MixinGuiSlotModList"
-  ],
-  "verbose": true
+  ]
 }
