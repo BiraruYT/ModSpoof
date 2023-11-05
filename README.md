@@ -18,8 +18,7 @@ In BETA
 3. `gradlew runClient`
 4. `gradlew runServer`
 5. `gradlew clean`
-6. `gradlew genIntellijRuns`
-7. `gradlew --refresh-dependencies`
+6. `gradlew --refresh-dependencies`
 
 # Credit:
 
@@ -31,3 +30,8 @@ In BETA
 ## Special Thanks To:
 1. [gjhylhlyhlghb](https://discordapp.com/users/429151217592041472)
 2. [Asbestosstar](https://discordapp.com/users/209892875201150987)
+
+# Branch:
+
+* MixinBooter
+* * This Branch Is Somewhat Updated And Is Made On A Library Called MixinBooter Which I Used When I Was Making This Mod
