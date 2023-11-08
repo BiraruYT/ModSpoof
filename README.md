@@ -1,6 +1,6 @@
 # Mod Spoof
 
-In BETA
+Hide forge mods from showing up to the server.
 
 # Instructions:
 
